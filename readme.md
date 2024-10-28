@@ -10,6 +10,7 @@ DscShell is an interactive shell for managing your Discord account from the term
 - List friends and manage friend requests
 - Join and leave voice channels
 - Set your activity status
+- Other features...
 
 ## Getting Started
 
@@ -26,11 +27,9 @@ DscShell is an interactive shell for managing your Discord account from the term
    pip install -r requirements.txt
    ```
 
-3. Set your bot token in `utils/config.py`.
-
-4. Run the bot:
+3. Run the bot:
    ```bash
-   python bot.py
+   python3 main.py
    ```
 
 ## Usage
